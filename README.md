@@ -42,6 +42,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
+```
+
 ### Autor
 
 ---
@@ -55,4 +57,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jeison-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeison-tomio/)](https://www.linkedin.com/in/jeison-tomio/)
 [![Gmail Badge](https://img.shields.io/badge/-medriase@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:medriase@gmail.com)](mailto:medriase@gmail.com)
+
+```
+
 ```
