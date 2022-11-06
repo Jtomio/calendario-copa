@@ -20,6 +20,10 @@
 
 ![preview](./assets/preview.png)
 
+<h3>
+    <a href="https://calendario-copa-2022.vercel.app/"> Link Projeto</a>
+</h3>
+
 > 📌 Trilha NLW - novembro 22.
 
 ### 🎲 Rodando o Front End ()
